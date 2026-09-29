@@ -1,4 +1,5 @@
-#Amanda Cardoso
+# Amanda Cardoso 👩🏽‍💻  
+
 
 Desenvolvimento full-stack | Engenharia de Dados
 
