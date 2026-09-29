@@ -66,7 +66,7 @@ Experiência prática no desenvolvimento de ecossistemas digitais em produção,
 | **Portal do Cliente** | Desenvolvimento de uma plataforma de autosserviço para clientes, centralizando o registro de propriedade, a gestão de garantias e o acompanhamento de ordens de serviço. Inclui assinatura eletrônica de documentos e controle de acesso seguro por usuário. | Next.js • TypeScript • Supabase (Postgres + RLS) • Vercel |
 | **Portal Operacional** | Desenvolvimento de uma aplicação interna para digitalização e integração de processos operacionais, contemplando emissão e consulta de romaneios, controle de estoque e gestão de registros. | Next.js • TypeScript • Supabase • PostgreSQL |
 | **Portal de Parceiros** | Criação de uma plataforma B2B para integração entre revendedores, representantes e empresa, permitindo gestão descentralizada de estoques, acompanhamento de vendas e centralização de solicitações comerciais.| Next.js • TypeScript • Supabase (Postgres + RLS) |
-| **Pipelines de Dados & Bancos** |Arquitetura e implantação de bancos de dados em nuvem, com modelagem relacional e desenvolvimento de pipelines ETL em Python para integração, tratamento e consolidação de dados provenientes de ERPs, planilhas e aplicações web.| PostgreSQL • Azure • Python • Azure Functions |
+| **Engenharia de Dados & Integração de Sistemas** |Arquitetura e implantação de bancos de dados em nuvem, com modelagem relacional e desenvolvimento de pipelines ETL em Python para integração, tratamento e consolidação de dados provenientes de ERPs, planilhas e aplicações web.| PostgreSQL • Azure • Python • Azure Functions |
 
 ---
 
