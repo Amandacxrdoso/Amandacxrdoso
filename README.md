@@ -61,10 +61,10 @@ Atuo na interseção entre dados e desenvolvimento ful-stack, transformando nece
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Portal do Cliente** | Portal para clientes acompanharem registro de propriedade, garantia e ordens de serviço de forma autônoma, com assinatura eletrônica de documentos | Next.js • TypeScript • Supabase (Postgres + RLS) • Vercel |
-| **Portal Operacional** | Ferramenta interna para emissão e consulta de romaneios, controle de estoque e gestão de registros da operação | Next.js • TypeScript • Supabase • PostgreSQL |
-| **Portal de Parceiros** | Portal para revendedores e representantes gerenciarem estoque, vendas e solicitações compartilhadas com a empresa | Next.js • TypeScript • Supabase (Postgres + RLS) |
-| **Pipelines de Dados & Bancos** | Modelagem e implantação de bancos na nuvem (Azure/Postgres), com pipelines ETL integrando múltiplas fontes (ERP, planilhas, portais) | PostgreSQL • Azure • Python • Azure Functions |
+| **Portal do Cliente** | Desenvolvimento de uma plataforma de autosserviço para clientes, centralizando o registro de propriedade, a gestão de garantias e o acompanhamento de ordens de serviço. Inclui assinatura eletrônica de documentos e controle de acesso seguro por usuário. | Next.js • TypeScript • Supabase (Postgres + RLS) • Vercel |
+| **Portal Operacional** | Desenvolvimento de uma aplicação interna para digitalização e integração de processos operacionais, contemplando emissão e consulta de romaneios, controle de estoque e gestão de registros. | Next.js • TypeScript • Supabase • PostgreSQL |
+| **Portal de Parceiros** | Criação de uma plataforma B2B para integração entre revendedores, representantes e empresa, permitindo gestão descentralizada de estoques, acompanhamento de vendas e centralização de solicitações comerciais.| Next.js • TypeScript • Supabase (Postgres + RLS) |
+| **Pipelines de Dados & Bancos** |Arquitetura e implantação de bancos de dados em nuvem, com modelagem relacional e desenvolvimento de pipelines ETL em Python para integração, tratamento e consolidação de dados provenientes de ERPs, planilhas e aplicações web.| PostgreSQL • Azure • Python • Azure Functions |
 
 ---
 
