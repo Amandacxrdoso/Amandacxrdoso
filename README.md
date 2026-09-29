@@ -3,7 +3,9 @@
 
 Desenvolvimento full-stack | Engenharia de Dados
 
-Atuo na interseção entre dados e desenvolvimento ful-stack, transformando necessidades de negócio em soluções digitais eficientes e funcionais. Tendo experiência no desenvolvimento de aplicações web completas, estruturação e otimização de bancos de dados, integração de sistemas e construção de dashboards para análise de dados.
+Atuo na interseção entre dados e desenvolvimento full-stack, transformando necessidades de negócio em soluções digitais eficientes e funcionais.
+
+Experiência prática no desenvolvimento de ecossistemas digitais em produção, abrangendo desde a arquitetura e modelagem de bancos de dados até aplicações web, integração de sistemas e automação de processos empresariais.
 
 🚀 Disponível para projetos de desenvolvimento full-stack, estruturação de bancos de dados, integração de sistemas e soluções personalizadas para empresas.
 
